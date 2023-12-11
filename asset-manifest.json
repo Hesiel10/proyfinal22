@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/proyfinal22/static/css/main.b1d7ec7b.css",
+    "main.js": "/proyfinal22/static/js/main.e2963375.js",
+    "static/js/787.1b0b0f65.chunk.js": "/proyfinal22/static/js/787.1b0b0f65.chunk.js",
+    "static/media/logoPython.png": "/proyfinal22/static/media/logoPython.dea924d737bb84eb9ce3.png",
+    "static/media/PHP-logo3.png": "/proyfinal22/static/media/PHP-logo3.502c1a901665a0453b5c.png",
+    "static/media/sql-logo.png": "/proyfinal22/static/media/sql-logo.85fb38d6773862e917f4.png",
+    "static/media/Swift-logo.png": "/proyfinal22/static/media/Swift-logo.9b70394e0eeb01b028ee.png",
+    "static/media/golang-logo.png": "/proyfinal22/static/media/golang-logo.d3b7d9b9e4c2f64301ee.png",
+    "static/media/JavaScript-logo.png": "/proyfinal22/static/media/JavaScript-logo.130c0ecd57833da6f75c.png",
+    "static/media/Java-Logo.png": "/proyfinal22/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
+    "static/media/img4.png": "/proyfinal22/static/media/img4.5106bdf5095238450e60.png",
+    "static/media/img3.png": "/proyfinal22/static/media/img3.1ab3085ae30a22ff767d.png",
+    "static/media/Cmasmas-logo.png": "/proyfinal22/static/media/Cmasmas-logo.d7a72328ffe7d955a33e.png",
+    "static/media/logo.svg": "/proyfinal22/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyfinal22/index.html",
+    "main.b1d7ec7b.css.map": "/proyfinal22/static/css/main.b1d7ec7b.css.map",
+    "main.e2963375.js.map": "/proyfinal22/static/js/main.e2963375.js.map",
+    "787.1b0b0f65.chunk.js.map": "/proyfinal22/static/js/787.1b0b0f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.e2963375.js"
+  ]
+}
